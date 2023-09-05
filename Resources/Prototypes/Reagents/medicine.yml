@@ -4,7 +4,8 @@
   group: Medicine
   desc: reagent-desc-cryptobiolin
   physicalDesc: reagent-physical-desc-fizzy
-  flavor: medicine
+  flavors:
+    - medicine
   color: "#081a80"
   metabolisms:
     Medicine:
